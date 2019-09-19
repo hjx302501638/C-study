@@ -1,5 +1,5 @@
-
-/*  ���뻷��
+﻿
+/*  编译环境   汉字转换为UTF-8
 	gcc version 5.4.0 20160609  
 */
 #include <stdio.h>
